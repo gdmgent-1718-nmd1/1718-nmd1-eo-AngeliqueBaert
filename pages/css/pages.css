@@ -15,4 +15,12 @@ img {
     max-width: 100%; /* Afbeeldingen responsive maken */
 }
 
+#positive{
+color: green;
+}
+
+#negative{
+color: red;
+}
+
 /* Voeg jouw css hieraan toe */
