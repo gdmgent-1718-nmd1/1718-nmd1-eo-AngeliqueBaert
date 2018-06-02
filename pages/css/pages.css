@@ -21,11 +21,11 @@ wrapper{
 }
 
 .positive{
-color: green;
+color: mediumSeaGreen;
 }
 
 .negative{
-color: red;
+color: tomato;
 }
 
 /* Voeg jouw css hieraan toe */
