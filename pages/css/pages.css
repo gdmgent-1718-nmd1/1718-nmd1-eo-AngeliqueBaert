@@ -28,4 +28,21 @@ color: mediumSeaGreen;
 color: tomato;
 }
 
+a:link {
+    color: #e1b8aa; 
+}
+
+a:visited {
+    color: #5979bc;
+}
+
+a:hover {
+    color: #c66f57;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+
+
+
 /* Voeg jouw css hieraan toe */
