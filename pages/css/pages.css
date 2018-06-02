@@ -17,6 +17,10 @@ img {
     max-width: 100%; /* Afbeeldingen responsive maken */
 }
 
+#wrapper{
+    Background-color: #fffcf1;
+}
+
 .positive{
 color: mediumSeaGreen;
 }
