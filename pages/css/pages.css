@@ -9,15 +9,12 @@ body {
     color: #333;
     line-height: 1.5em;
     padding: 25px;
+    background-image: url("https://www.planwallpaper.com/static/images/template-widescreen-background-pattern-html1.jpg");
+    background-repeat: repeat;
 }
 
 img {
     max-width: 100%; /* Afbeeldingen responsive maken */
-}
-
-#wrapper{
-    background-image: url("https://www.planwallpaper.com/static/images/template-widescreen-background-pattern-html1.jpg");
-    background-repeat: repeat;
 }
 
 .positive{
