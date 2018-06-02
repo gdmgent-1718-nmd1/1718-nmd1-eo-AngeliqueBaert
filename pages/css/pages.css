@@ -15,6 +15,11 @@ img {
     max-width: 100%; /* Afbeeldingen responsive maken */
 }
 
+wrapper{
+    background-image: url("http://farm9.staticflickr.com/8263/8663643933_8d8dc58272_z.jpg");
+    background-repeat: repeat;
+}
+
 .positive{
 color: green;
 }
