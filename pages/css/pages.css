@@ -23,6 +23,11 @@ img {
     border-radius: 12px;
 }
 
+h2{
+    color: #c66f57;
+    text-size: 40px;
+}
+
 .positive{
 color: mediumSeaGreen;
 }
